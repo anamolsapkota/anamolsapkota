@@ -2,8 +2,7 @@
 Hello, My name is **[Anamol Sapkota](https://en.wikipedia.org/wiki/User:Ascii002)** (He/Him). I am from **[Nepal](https://en.wikipedia.org/wiki/Nepal)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/840px-Flag_of_Nepal.svg.png" height="15" width="15" title=":flag_np:" />.
 
 # Projects 👨‍💻
-Most of my projects are private. The public repositories can be seen at **[this GitHub profile](https://github.com/anamolsapkota)**.
-Some of them are:
+Most of my projects are private. The public repositories can be seen at **[this GitHub profile](https://github.com/anamolsapkota?tab=repositories)**.
 - **[ Echo ](https://echobot.gitbook.io/echo)** :: A Multipurpose Discord Bot
 
 # Languages and Tools ⚒
