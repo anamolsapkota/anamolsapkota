@@ -2,6 +2,7 @@
 I'm **[Anamol Sapkota](https://en.wikipedia.org/wiki/User:Ascii002)** (He/Him). I am from **[Nepal](https://en.wikipedia.org/wiki/Nepal)** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/840px-Flag_of_Nepal.svg.png" height="15" width="15" title=":flag_np:" />.
 
 :mailbox: Reach me out!
+
 [![Twitter Badge](https://img.shields.io/badge/-@sapkotaanamol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sapkotaanamol)](https://twitter.com/sapkotaanamol) [![Linkedin Badge](https://img.shields.io/badge/-@anamolsapkota-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamolsapkota/) [![Mail Badge](https://img.shields.io/badge/-@anamolsapkota-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anamolsapkota) [![Mail Badge](https://img.shields.io/badge/-anamolsapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anamolsapkota.np@gmail.com)
 
 # Projects 👨‍💻
