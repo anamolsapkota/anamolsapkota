@@ -3,7 +3,12 @@ I'm **[Anamol Sapkota](https://en.wikipedia.org/wiki/User:Ascii002)** (He/Him) f
 
 **:mailbox: Reach me out!**
 
-[![Twitter Badge](https://img.shields.io/badge/-@sapkotaanamol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sapkotaanamol)](https://twitter.com/sapkotaanamol) [![Linkedin Badge](https://img.shields.io/badge/-@anamolsapkota-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamolsapkota/) [![Mail Badge](https://img.shields.io/badge/-@anamolsapkota-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anamolsapkota) [![Mail Badge](https://img.shields.io/badge/-anamolsapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anamolsapkota.np@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@sapkotaanamol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sapkotaanamol)](https://twitter.com/sapkotaanamol) [![Linkedin Badge](https://img.shields.io/badge/-@anamolsapkota-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamolsapkota/) [![Mail Badge](https://img.shields.io/badge/-@anamolsapkota-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anamolsapkota) [![Mail Badge](https://img.shields.io/badge/-anamolsapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anamolsapkota@gmail.com)
+
+- 🔭 I’m currently working at [Kathmandu University](https://ku.edu.np)
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: anamolsapkota@gmail.com.
+- 😄 Pronouns: Echo.
 
 #### Projects 👨‍💻
 Most of my projects are private. The public repositories can be seen at **[this GitHub profile](https://github.com/anamolsapkota?tab=repositories)**.
@@ -20,13 +25,21 @@ Most of my projects are private. The public repositories can be seen at **[this 
 
 #### Business
 - :paperclip: [My Resume/CV](https://cdn.sapkotaanamol.com.np/documents/resume.pdf)
-- :email: anamolsapkota.np@gmail.com
+- :email: anamolsapkota@gmail.com
 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anamolsapkota.anamolsapkota)
 
-#### Links 📎
+#### Github Stats
+
+![Anamol's github stats](https://github-readme-stats.vercel.app/api?username=anamolsapkota&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+<details>
+<summary>
+Other Links 📎
+</summary>
+<br>
 - [EchoZONE Discord Server](https://discord.gg/NXk5ZuC)
 - [anamolsapkota.is-a.dev](https://anamolsapkota.is-a.dev)
 - [anamolsapkota.thedev.id](https://anamolsapkota.thedev.id)
@@ -34,3 +47,5 @@ Most of my projects are private. The public repositories can be seen at **[this 
 - [anamolsapkota.tech](https://anamolsapkota.tech)
 - [sapkotaanamol.com.np](https://sapkotaanamol.com.np)
 - [anamolsapkota.com.np](https://anamolsapkota.com.np)
+  
+</details>
