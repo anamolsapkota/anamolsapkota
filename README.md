@@ -8,10 +8,10 @@ I'm **[Anamol Sapkota](https://en.wikipedia.org/wiki/User:Ascii002)** (He/Him) f
 #### Projects 👨‍💻
 Most of my projects are private. The public repositories can be seen at **[this GitHub profile](https://github.com/anamolsapkota?tab=repositories)**.
 
-#####Python Projects
+##### Python Projects
 - **[ Echo ](https://echobot.tk)** :: A Multipurpose Discord Bot
 
-#####
+##### Websites
 - **[Web Designs](https://sapkotaanamol.com.np/home#portfolio)** :: List of all the websites created by me
 
 #### Languages and Tools ⚒
