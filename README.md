@@ -15,7 +15,7 @@ Most of my projects are private. The public repositories can be seen at **[this 
 - **[Django](https://www.djangoproject.com/)**
 
 # :mailbox: Reach me out!
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sapkotaanamol)](https://twitter.com/sapkotaanamol) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamolsapkota/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anamolsapkota) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anamolsapkota.np@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@sapkotaanamol-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sapkotaanamol)](https://twitter.com/sapkotaanamol) [![Linkedin Badge](https://img.shields.io/badge/-@anamolsapkota-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamolsapkota/) [![Mail Badge](https://img.shields.io/badge/-@anamolsapkota-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anamolsapkota) [![Mail Badge](https://img.shields.io/badge/-anamolsapkota-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anamolsapkota.np@gmail.com)
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://cdn.sapkotaanamol.com.np/documents/resume.pdf)
