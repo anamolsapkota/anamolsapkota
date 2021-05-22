@@ -35,11 +35,8 @@ Most of my projects are private. The public repositories can be seen at **[this 
 
 ![Anamol's github stats](https://github-readme-stats.vercel.app/api?username=anamolsapkota&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<details>
-<summary>
-Other Links 📎
-</summary>
-<br>
+####Other Links 📎
+
 - [EchoZONE Discord Server](https://discord.gg/NXk5ZuC)
 - [anamolsapkota.is-a.dev](https://anamolsapkota.is-a.dev)
 - [anamolsapkota.thedev.id](https://anamolsapkota.thedev.id)
@@ -47,5 +44,3 @@ Other Links 📎
 - [anamolsapkota.tech](https://anamolsapkota.tech)
 - [sapkotaanamol.com.np](https://sapkotaanamol.com.np)
 - [anamolsapkota.com.np](https://anamolsapkota.com.np)
-  
-</details>
