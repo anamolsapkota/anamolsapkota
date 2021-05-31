@@ -7,7 +7,7 @@ I'm **[Anamol Sapkota](https://en.wikipedia.org/wiki/User:Ascii002)** (He/Him) f
 
 - 🔭 I’m currently working at [Kathmandu University](https://ku.edu.np)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: anamolsapkota@gmail.com.
+- 📫 How to reach me: info@sapkotaanamol.com.np.
 - 😄 Pronouns: Echo.
 
 #### Projects 👨‍💻
