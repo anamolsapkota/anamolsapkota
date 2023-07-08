@@ -20,7 +20,7 @@ Most of my projects are private. The public repositories can be seen at **[this 
 - **[Web Designs](https://sapkotaanamol.com.np/home#portfolio)** :: List of all the websites created by me
 
 #### Languages and Tools ⚒
-- **Languages:** [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) & [JAVA](https://en.wikipedia.org/wiki/Java_(programming_language))
+- **Languages:** [ReactJS](https://en.wikipedia.org/wiki/React_(software)), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) & [JAVA](https://en.wikipedia.org/wiki/Java_(programming_language))
 - **Frameworks:** [Django](https://www.djangoproject.com/)
 
 #### Business
