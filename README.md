@@ -50,8 +50,21 @@ I design, build, and ship production software end to end, from frontend to infra
 #### GitHub Stats 📊
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anamolsapkota&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=contribs,prs" alt="Anamol's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamolsapkota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Anamol's top languages" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anamolsapkota&theme=tokyonight" alt="Anamol's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anamolsapkota&theme=tokyonight" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anamolsapkota&theme=tokyonight" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anamolsapkota&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anamolsapkota&theme=tokyonight&utcOffset=5.75" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anamolsapkota&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </p>
 
 #### Other Links 📎
