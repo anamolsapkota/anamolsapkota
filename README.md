@@ -22,9 +22,12 @@ I design, build, and ship production software end to end, from frontend to infra
 - **Cloud & DevOps** - AWS, Docker, Kubernetes, Linux, Nginx, CI/CD automation
 - **Cybersecurity** - network security, RADIUS-based authentication, infrastructure hardening
 
-##### Featured Project
+##### Featured Projects
 
-- **eduroam Management Tool** :: A RADIUS-based WiFi authentication management system for universities and guest access.
+- **[dtn-tools](https://github.com/anamolsapkota/dtn-tools)** :: CLI toolkit for setting up, managing, and monitoring DTN (Delay-Tolerant Networking) nodes with ION-DTN. Automatic neighbor discovery, interactive setup wizard, and unified node management.
+- **[dtn-chat](https://github.com/anamolsapkota/dtn-chat)** :: Multi-user web chat over Delay-Tolerant Networking (ION-DTN). All messages flow through DTN bundles.
+- **[ione-code](https://github.com/anamolsapkota/ione-code)** :: ION DTN (Interplanetary Overlay Network) 4.1.2, open source, with build fixes for Raspberry Pi.
+- **[eduroam](https://github.com/anamolsapkota/eduroam)** :: RADIUS-based WiFi authentication bulk upload and management portal for Nepal's universities and guest access.
 - **[Web Designs](https://sapkotaanamol.com.np/home#portfolio)** :: A portfolio of websites and products I have built.
 
 #### Languages and Tools ⚒
@@ -40,15 +43,16 @@ I design, build, and ship production software end to end, from frontend to infra
 
 #### Business 💼
 
-- :paperclip: [My Resume/CV](https://cdn.sapkotaanamol.com.np/documents/resume.pdf)
+- :paperclip: Resume/CV available on my website: [sapkotaanamol.com.np](https://sapkotaanamol.com.np)
 - :email: info@sapkotaanamol.com.np
 - :globe_with_meridians: [sapkotaanamol.com.np](https://sapkotaanamol.com.np)
 
 #### GitHub Stats 📊
 
-![Anamol's github stats](https://github-readme-stats.vercel.app/api?username=anamolsapkota&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-![Anamol's GitHub streak](https://streak-stats.demolab.com?user=anamolsapkota&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anamolsapkota&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=contribs,prs" alt="Anamol's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anamolsapkota&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Anamol's top languages" />
+</p>
 
 #### Other Links 📎
 
